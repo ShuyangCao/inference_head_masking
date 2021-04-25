@@ -17,7 +17,7 @@ To run the sequence tagger, please also download the `roberta.base` model from t
 
 ## Decode with Head Masking
 
-Our sequence taggers and fine-tuned summarization models can be downloaded from.
+Our sequence taggers and fine-tuned summarization models can be downloaded from [here](https://drive.google.com/file/d/1JEcM5WUMO-w5eQKo215Le5iRqY-faVuo/view?usp=sharing).
 Binarized datasets and the tagging results produced by our content selectors are also provided.
 
 #### Decode with Selection Labels
